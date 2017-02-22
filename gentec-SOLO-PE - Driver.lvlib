@@ -7,6 +7,10 @@
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">false</Property>
 	<Property Name="NI.SortType" Type="Int">3</Property>
+	<Item Name="Documentation" Type="Folder">
+		<Item Name="User_Manual_PC-SOLO_V4.0.pdf" Type="Document" URL="/S/Subsysteme/PCS/Dokumentation/User_Manual_PC-SOLO_V4.0.pdf"/>
+		<Item Name="User_Manual_SOLO_2_V7.pdf" Type="Document" URL="/S/Subsysteme/PCS/Dokumentation/User_Manual_SOLO_2_V7.pdf"/>
+	</Item>
 	<Item Name="Driver" Type="Folder">
 		<Property Name="NI.SortType" Type="Int">3</Property>
 		<Item Name="Low Level" Type="Folder">
